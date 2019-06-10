@@ -8,6 +8,7 @@ We are from mits college joined in udacity nano degree program for 20 days
 2. Raji
 3. Latha
 - swati
+-- Jyothi
 - pavani
 - sandhya
 + kiran
