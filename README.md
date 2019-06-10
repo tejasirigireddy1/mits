@@ -1,7 +1,7 @@
 # Mits
-##Sample Project
-###Front End Nano degree
-**We are from mits college joined in udacity nano degree program for 20 days**
+## Sample Project
+### Front End Nano degree
+** We are from mits college joined in udacity nano degree program for 20 days **
 We are from mits college joined in udacity nano degree program for 20 days
 'jasmine'
 1. Teja
